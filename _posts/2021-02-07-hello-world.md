@@ -1,8 +1,10 @@
 ---
-layout: post # 使用post模版
-title:  "我的第一篇文章"
-date:   2018-08-14
-categories: life
+layout: post
+title:  "Welcome to Jekyll!"
 ---
 
-这是我的第一篇文章
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
